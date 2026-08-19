@@ -1,4 +1,5 @@
 # WS_Probe 🔌
+![CI](https://github.com/realMNohgee/WS_Probe/actions/workflows/ci.yml/badge.svg) ![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 **WebSocket client for testing and debugging.** Connect, send, listen, benchmark. Zero dependencies, pure Python stdlib.
 
